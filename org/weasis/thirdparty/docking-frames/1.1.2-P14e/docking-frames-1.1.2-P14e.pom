@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-	<parent>
-		<artifactId>thirdparty-public-builder</artifactId>
-		<groupId>org.weasis.thirdparty</groupId>
-		<version>1.0</version>
-		<relativePath>../../pom.xml</relativePath>
-	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.weasis.thirdparty</groupId>
 	<artifactId>docking-frames</artifactId>
@@ -14,34 +8,4 @@
 	<packaging>bundle</packaging>
 	<name>Docking Frames</name>
 	<url>http://dock.javaforge.com</url>
-	<properties>
-		<bundle.symbolicName>${project.artifactId}</bundle.symbolicName>
-		<bundle.namespace>bibliothek</bundle.namespace>
-	</properties>
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.felix</groupId>
-				<artifactId>maven-bundle-plugin</artifactId>
-				<version>2.3.7</version>
-				<extensions>true</extensions>
-				<configuration>
-					<obrRepository>${settings.localRepository}/repository.xml</obrRepository>
-					<instructions>
-						<Bundle-SymbolicName>${bundle.symbolicName}</Bundle-SymbolicName>
-						<Bundle-Version>${project.version}</Bundle-Version>
-						<Bundle-RequiredExecutionEnvironment>J2SE-1.5</Bundle-RequiredExecutionEnvironment>
-						<_removeheaders>
-							Bnd-LastModified,Include-Resource,Private-Package,Tool,Built-By,Build-Jdk,Created-By
-							</_removeheaders>
-						<_nouses>true</_nouses>
-						<Import-Package>*</Import-Package>
-						<Export-Package>${bundle.namespace}.*</Export-Package>
-						<Embed-Dependency>*;scope=provided;inline=true</Embed-Dependency>
-						<Embed-StripGroup>true</Embed-StripGroup>
-					</instructions>
-				</configuration>
-			</plugin>
-		</plugins>
-	</build>
 </project>

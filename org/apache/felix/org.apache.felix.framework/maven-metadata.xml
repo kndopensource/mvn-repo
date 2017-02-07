@@ -2,13 +2,15 @@
 <metadata>
 	<groupId>org.apache.felix</groupId>
 	<artifactId>org.apache.felix.framework</artifactId>
-	<version>5.6.0-p1</version>
+	<version>5.6.1-p1</version>
 	<versioning>
-		<release>5.6.0-p1</release>
+		<release>5.6.1-p1</release>
 		<versions>
  			<version>5.4.0-p1</version>
 			<version>5.6.0-p1</version>
+			<version>5.6.0-p2</version>
+			<version>5.6.1-p1</version>
 		</versions>
-		<lastUpdated>20161115223841</lastUpdated>
+		<lastUpdated>20170207185745</lastUpdated>
 	</versioning>
 </metadata>

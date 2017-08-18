@@ -2,12 +2,13 @@
 <metadata>
 	<groupId>org.weasis.thirdparty.org.opencv</groupId>
 	<artifactId>opencv</artifactId>
-	<version>3.2.0</version>
+	<version>3.3.0</version>
 	<versioning>
-		<release>3.2.0</release>
+		<release>3.3.0</release>
 		<versions>
  			<version>3.2.0</version>
+			<version>3.3.0</version>
 		</versions>
-		<lastUpdated>20170427152541</lastUpdated>
+		<lastUpdated>20170818123115</lastUpdated>
 	</versioning>
 </metadata>

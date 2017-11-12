@@ -2,14 +2,15 @@
 <metadata>
 	<groupId>org.weasis.thirdparty.org.opencv</groupId>
 	<artifactId>opencv</artifactId>
-	<version>3.3.0-dcm</version>
+	<version>3.3.1-dcm</version>
 	<versioning>
-		<release>3.3.0-dcm</release>
+		<release>3.3.1-dcm</release>
 		<versions>
  			<version>3.2.0</version>
 			<version>3.3.0-dcm</version>
 			<version>3.3.0</version>
+			<version>3.3.1-dcm</version>
 		</versions>
-		<lastUpdated>20171004224526</lastUpdated>
+		<lastUpdated>20171112172348</lastUpdated>
 	</versioning>
 </metadata>

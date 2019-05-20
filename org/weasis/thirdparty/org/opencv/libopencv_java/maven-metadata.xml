@@ -2,9 +2,9 @@
 <metadata>
 	<groupId>org.weasis.thirdparty.org.opencv</groupId>
 	<artifactId>libopencv_java</artifactId>
-	<version>4.0.0-dcmR1</version>
+	<version>4.1.0-dcm</version>
 	<versioning>
-		<release>4.0.0-dcmR1</release>
+		<release>4.1.0-dcm</release>
 		<versions>
  			<version>3.2.0</version>
 			<version>3.3.0-dcm</version>
@@ -17,7 +17,8 @@
 			<version>4.0.0-dcmR1</version>
 			<version>4.0.0-dcmR2</version>
 			<version>4.0.0-dcmR3</version>
+			<version>4.1.0-dcm</version>
 		</versions>
-		<lastUpdated>20181220204802</lastUpdated>
+		<lastUpdated>20190520201138</lastUpdated>
 	</versioning>
 </metadata>

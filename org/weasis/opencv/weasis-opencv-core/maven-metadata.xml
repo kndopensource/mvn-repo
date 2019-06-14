@@ -2,15 +2,16 @@
 <metadata>
 	<groupId>org.weasis.opencv</groupId>
 	<artifactId>weasis-opencv-core</artifactId>
-	<version>3.0.4</version>
+	<version>3.5.2-rc</version>
 	<versioning>
-		<release>3.0.4</release>
+		<release>3.5.2-rc</release>
 		<versions>
  			<version>3.0.0-RC1</version>
 			<version>3.0.1</version>
 			<version>3.0.2-rc1</version>
 			<version>3.0.4</version>
+			<version>3.5.2-rc</version>
 		</versions>
-		<lastUpdated>20181220204802</lastUpdated>
+		<lastUpdated>20190614164245</lastUpdated>
 	</versioning>
 </metadata>

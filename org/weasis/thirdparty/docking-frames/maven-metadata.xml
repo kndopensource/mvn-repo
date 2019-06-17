@@ -2,11 +2,12 @@
 <metadata>
 	<groupId>org.weasis.thirdparty</groupId>
 	<artifactId>docking-frames</artifactId>
-	<version>1.1.2-P14e</version>
+	<version>1.1.2</version>
 	<versioning>
-		<release>1.1.2-P14e</release>
+		<release>1.1.2</release>
 		<versions>
- 			<version>1.1.2-P14e</version>
+ 			<version>1.1.2</version>
+			<version>1.1.2-P14e</version>
 			<version>1.1.2-P16a</version>
 			<version>1.1.2-P17</version>
 			<version>1.1.2-P18a</version>
@@ -14,6 +15,6 @@
 			<version>1.1.2-P20a</version>
 			<version>1.1.2-P20c</version>
 		</versions>
-		<lastUpdated>20190614164246</lastUpdated>
+		<lastUpdated>20190617212029</lastUpdated>
 	</versioning>
 </metadata>

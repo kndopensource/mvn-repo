@@ -2,9 +2,9 @@
 <metadata>
 	<groupId>org.weasis.thirdparty.org.opencv</groupId>
 	<artifactId>opencv</artifactId>
-	<version>4.1.0-dcm</version>
+	<version>4.1.1-dcm</version>
 	<versioning>
-		<release>4.1.0-dcm</release>
+		<release>4.1.1-dcm</release>
 		<versions>
  			<version>3.2.0</version>
 			<version>3.3.0-dcm</version>
@@ -18,7 +18,8 @@
 			<version>4.0.0-dcmR2</version>
 			<version>4.0.0-dcmR3</version>
 			<version>4.1.0-dcm</version>
+			<version>4.1.1-dcm</version>
 		</versions>
-		<lastUpdated>20190614164246</lastUpdated>
+		<lastUpdated>20190802184602</lastUpdated>
 	</versioning>
 </metadata>

@@ -2,9 +2,9 @@
 <metadata>
 	<groupId>org.pushing-pixels</groupId>
 	<artifactId>radiance-substance-all</artifactId>
-	<version>3.0.0-rc3</version>
+	<version>3.0.0</version>
 	<versioning>
-		<release>3.0.0-rc3</release>
+		<release>3.0.0</release>
 		<versions>
  			<version>1.0.2</version>
 			<version>1.9.0</version>
@@ -12,9 +12,10 @@
 			<version>1.9.2</version>
 			<version>2.0.1</version>
 			<version>2.5.0-rc</version>
+			<version>3.0.0</version>
 			<version>3.0.0-rc3</version>
 			<version>3.0.0-rc</version>
 		</versions>
-		<lastUpdated>20200222114625</lastUpdated>
+		<lastUpdated>20200627111218</lastUpdated>
 	</versioning>
 </metadata>

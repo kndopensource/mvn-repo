@@ -34,6 +34,7 @@
     <revision>6.0.0</revision>
     <sonar.projectKey>dcm4che6</sonar.projectKey>
     <changelist>-SNAPSHOT</changelist>
+    <sonar.moduleKey>${artifactId}</sonar.moduleKey>
     <weasis.core.img.version>4.5.0.1</weasis.core.img.version>
   </properties>
   <dependencies>

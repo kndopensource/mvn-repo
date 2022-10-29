@@ -2,9 +2,9 @@
 <metadata>
   <groupId>org.weasis</groupId>
   <artifactId>weasis-dicom-tools</artifactId>
-  <version>5.27.0.1</version>
+  <version>5.29.0-SNAPSHOT</version>
   <versioning>
-    <release>5.27.0.1</release>
+    <release>5.29.0-SNAPSHOT</release>
     <versions>
       <version>0.9.5</version>
       <version>0.9.6</version>
@@ -58,7 +58,8 @@
       <version>5.26.1</version>
       <version>5.27.0</version>
       <version>5.27.0.1</version>
+      <version>5.29.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20220809152329</lastUpdated>
+    <lastUpdated>20221029100543</lastUpdated>
   </versioning>
 </metadata>
